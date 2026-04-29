@@ -21,6 +21,7 @@ This is the high-level map of the wiki. Use it to find the right section index b
 
 - [[concepts/llm-wiki|LLM Wiki]] — the core pattern this project implements.
 - [[sources/llm-wiki-karpathy-gist|LLM Wiki pattern]] — initial seed source for this wiki.
+- [[syntheses/ai-tool-site-seo-practical-handbook|AI tool site SEO practical handbook]] — practical SEO execution workflow for AI tool websites.
 
 ## Maintenance Notes
 

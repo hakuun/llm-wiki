@@ -10,6 +10,7 @@ Source summary pages derived from immutable files in `raw/sources/` and related 
 
 ## Sources
 
+- [[ai-tool-site-seo-playbook|AI Tool Site SEO Playbook]] — unfinished SEO playbook for AI tool sites, emphasizing practical execution across ICP, intent, foundation, content, backlinks, competitors, and pSEO. Tags: `seo`, `ai-tools`, `growth`, `playbook`.
 - [[llm-wiki-karpathy-gist|LLM Wiki pattern]] — source describing the agent-maintained Markdown wiki pattern, three-layer architecture, and ingest/query/lint workflows. Tags: `llm-wiki`, `knowledge-management`, `obsidian`.
 
 ## Conventions

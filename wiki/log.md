@@ -40,3 +40,22 @@ Updated pages:
 - [[concepts/index]]
 - [[entities/index]]
 - [[index]]
+
+## [2026-04-29] ingest | AI tool site SEO playbook
+
+Ingested `raw/sources/seo.md` as an AI tool site SEO practical handbook, with emphasis on executable workflows rather than broad SEO theory. The raw source appears unfinished and contains OCR/extraction noise, so source-derived pages mark strategic claims and draft status where appropriate.
+
+Updated pages:
+- [[sources/ai-tool-site-seo-playbook]]
+- [[syntheses/ai-tool-site-seo-practical-handbook]]
+- [[concepts/seo-icp]]
+- [[concepts/search-intent-to-page-type]]
+- [[concepts/ai-tool-site-seo-foundation]]
+- [[concepts/last-click-seo]]
+- [[concepts/seo-information-gain]]
+- [[concepts/backlink-trust-system]]
+- [[concepts/programmatic-seo-for-ai-tool-sites]]
+- [[sources/index]]
+- [[concepts/index]]
+- [[syntheses/index]]
+- [[index]]
