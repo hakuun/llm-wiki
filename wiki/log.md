@@ -68,3 +68,12 @@ Updated pages:
 - [[syntheses/ai-overseas-tool-site-14-day-plan]]
 - [[syntheses/index]]
 - [[log]]
+
+## [2026-04-30] update | Shift Etsy plan to Listing Helper
+
+Updated the AI overseas tool site plan to use Etsy Listing Helper as the core product, with Etsy Tags Generator, Etsy Title Generator, and Etsy Description Generator as supporting tool pages. The change responds to stronger competition around the direct `Free Etsy Tags Generator` head term.
+
+Updated pages:
+- [[syntheses/ai-overseas-tool-site-14-day-plan]]
+- [[syntheses/index]]
+- [[log]]
